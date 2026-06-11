@@ -14,7 +14,7 @@ I was responsible for database schema design, stored procedures, triggers, const
 - Relational Database Design
 
 ## Project Structure
-
+```text
 nursing-home-management-database/
 ├── README.md
 └── sql/
