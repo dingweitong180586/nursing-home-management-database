@@ -13,15 +13,16 @@ I was responsible for database schema design, stored procedures, triggers, const
 - ER Modeling
 - Relational Database Design
 
-## Project Structure
 ```markdown
+## Project Structure
+
+```text
 nursing-home-management-database/
 ├── README.md
 └── sql/
     ├── 00_schema_sample_data.sql
     ├── 01_resident_crud.sql
     └── 02_constraints_triggers.sql
-```text
 
 ## How to Run
 1. Run `sql/00_schema_sample_data.sql` to create tables and insert sample data.
