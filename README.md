@@ -22,3 +22,7 @@ nursing-home-management-database/
     ├── 00_schema_sample_data.sql
     ├── 01_resident_crud.sql
     └── 02_constraints_triggers.sql
+## How to Run
+1. Run `sql/00_schema_sample_data.sql` to create tables and insert sample data.
+2. Run `sql/01_resident_crud.sql` to create resident CRUD procedures.
+3. Run `sql/02_constraints_triggers.sql` to add constraints, audit table, and triggers.
