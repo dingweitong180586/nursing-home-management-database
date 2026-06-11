@@ -15,7 +15,6 @@ I was responsible for database schema design, stored procedures, triggers, const
 
 ## Project Structure
 
-```text
 nursing-home-management-database/
 ├── README.md
 └── sql/
@@ -23,7 +22,6 @@ nursing-home-management-database/
     ├── 01_resident_crud.sql
     └── 02_constraints_triggers.sql
 
-```text
 ## How to Run
 1. Run `sql/00_schema_sample_data.sql` to create tables and insert sample data.
 2. Run `sql/01_resident_crud.sql` to create resident CRUD procedures.
